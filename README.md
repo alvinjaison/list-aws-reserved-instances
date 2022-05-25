@@ -4,4 +4,5 @@ A simple script to list AWS Reserved instance(EC2,RDS,RedShift,ElastiCache) IDs 
 
 **Prerequisites**
 
-A linux/mac machine with aws cli installed in it. The default aws profile should be configured.
+A linux/mac machine with aws cli installed in it. 
+The default aws profile should be configured.
